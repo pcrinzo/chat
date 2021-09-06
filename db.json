@@ -1,0 +1,27 @@
+{
+  "room": [
+    {
+      "id": 1,
+      "name": "sala 1",
+      "date": "09.05.2021",
+      "startHour": "21hs",
+      "endHour": "23hs"
+    },
+    {
+      "name": "sala 2",
+      "date": "11.05.2021",
+      "startHour": "20hs",
+      "endHour": "23hs",
+      "apiId": "v1",
+      "id": 2
+    },
+    {
+      "name": "sala 3",
+      "date": "13.05.2021",
+      "startHour": "22hs",
+      "endHour": "23hs",
+      "apiId": "v1",
+      "id": 3
+    }
+  ]
+}
